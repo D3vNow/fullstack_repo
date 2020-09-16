@@ -1,0 +1,28 @@
+{
+  "name": "fullstack_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3vNow/fullstack_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D3vNow/fullstack_repo/issues"
+  },
+  "homepage": "https://github.com/D3vNow/fullstack_repo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
